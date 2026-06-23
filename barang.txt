@@ -1,0 +1,5 @@
+Laptop,8500000.0,10
+Kemeja,150000.0,50
+Kopi Susu,15000.0,100
+Mouse Wireless,200000.0,25
+Celana Jeans,250000.0,30
